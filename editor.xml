@@ -27,7 +27,14 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertClosingTag" value="false" />
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
+    <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>
 </application>
