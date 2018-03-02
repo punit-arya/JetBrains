@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Convert dict constructor to dict literal form" />
+  </component>
+</application>
