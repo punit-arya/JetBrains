@@ -1,9 +1,1 @@
-<keymap version="1" name="Mine" parent="Default for KDE">
-  <action id="ActivateDocumentationToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
-  </action>
-  <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift ctrl f12" />
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-  </action>
-</keymap>
+<keymap version="1" name="Mine" parent="Default for KDE" />
