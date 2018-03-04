@@ -1,11 +1,15 @@
 <scheme name="Mine" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.1666666" />
   <metaInfo>
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-02-28T13:06:03</property>
+    <property name="modified">2018-03-05T01:15:41</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="21" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="CMU Typewriter Text" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
