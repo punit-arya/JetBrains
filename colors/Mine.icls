@@ -4,7 +4,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-06T13:27:11</property>
+    <property name="modified">2018-03-06T13:31:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -16,12 +16,12 @@
   <attributes>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -74,7 +74,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -82,6 +82,7 @@
         <option name="FOREGROUND" value="975027" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
