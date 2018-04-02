@@ -1,16 +1,14 @@
 <scheme name="Mine" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.1666666" />
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-04-02T22:00:54</property>
+    <property name="modified">2018-03-06T13:31:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="24" />
-  <option name="EDITOR_FONT_NAME" value="CMU Typewriter Text" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="21" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
@@ -18,12 +16,17 @@
   <attributes>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="975027" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -48,6 +51,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff7200" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_LABEL">
       <value>
         <option name="FOREGROUND" value="c6a758" />
@@ -65,9 +74,16 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="969696" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="975027" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="786e" />
