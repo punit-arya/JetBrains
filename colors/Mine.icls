@@ -4,7 +4,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-06T13:31:48</property>
+    <property name="modified">2018-04-02T17:48:38</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -14,6 +14,27 @@
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
   </colors>
   <attributes>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="5a5a5a" />
+      </value>
+    </option>
+    <option name="BASH.REDIRECTION">
+      <value>
+        <option name="FOREGROUND" value="975027" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="979797" />
