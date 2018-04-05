@@ -1,14 +1,11 @@
 <scheme name="Mine" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-06T13:31:48</property>
+    <property name="modified">2018-04-06T01:00:56</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="20" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
@@ -82,8 +79,6 @@
         <option name="FOREGROUND" value="975027" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="786e" />
