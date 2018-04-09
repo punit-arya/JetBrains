@@ -11,10 +11,12 @@
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
+    <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
     <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_WRAPPING" value="0" />
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="FROM_IMPORT_WRAPPING" value="0" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
