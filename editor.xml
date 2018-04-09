@@ -27,6 +27,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
@@ -44,7 +45,6 @@
     <option name="automaticallyStartAttribute" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
-    <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>
 </application>
