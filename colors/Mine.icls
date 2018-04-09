@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-04-06T16:45:40</property>
+    <property name="modified">2018-04-09T17:16:29</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -110,6 +110,11 @@
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="975027" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
