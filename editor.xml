@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="24" />
-    <option name="FONT_FAMILY" value="CMU Typewriter Text" />
-    <option name="FONT_SCALE" value="1.1666666" />
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="M+ 1mn" />
+    <option name="FONT_SCALE" value="1.0833334" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -27,6 +27,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
@@ -44,7 +45,6 @@
     <option name="automaticallyStartAttribute" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
-    <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>
 </application>

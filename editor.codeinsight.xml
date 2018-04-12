@@ -15,6 +15,7 @@
     <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
