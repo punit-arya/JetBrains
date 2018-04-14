@@ -1,8 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="17" />
-    <option name="FONT_FAMILY" value="M+ 1mn" />
-    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="FONT_SIZE" value="23" />
+    <option name="FONT_FAMILY" value="CMU Typewriter Text" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
