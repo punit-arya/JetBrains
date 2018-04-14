@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Convert 'import module' to 'from module import'" />
+  </component>
+</application>

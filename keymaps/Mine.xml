@@ -1,1 +1,9 @@
-<keymap version="1" name="Mine" parent="Default for KDE" />
+<keymap version="1" name="Mine" parent="Default for KDE">
+  <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+</keymap>
