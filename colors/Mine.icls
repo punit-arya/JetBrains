@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-04-09T18:25:12</property>
+    <property name="modified">2018-04-25T18:48:21</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -11,10 +11,14 @@
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
   </colors>
   <attributes>
+    <option name="BASH.CONDITIONAL">
+      <value>
+        <option name="FOREGROUND" value="b987ff" />
+      </value>
+    </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="f99ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
