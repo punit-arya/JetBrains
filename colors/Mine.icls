@@ -4,20 +4,25 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-04-15T01:30:45</property>
+    <property name="modified">2018-05-15T22:12:51</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
   </colors>
   <attributes>
+    <option name="BASH.CONDITIONAL">
+      <value>
+        <option name="FOREGROUND" value="b987ff" />
+      </value>
+    </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="f99ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -102,7 +107,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f83d03" />
+        <option name="FOREGROUND" value="f874ab" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -120,8 +125,6 @@
         <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="786e" />
@@ -134,7 +137,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dfdfdf" />
+        <option name="FOREGROUND" value="bfbfbf" />
         <option name="BACKGROUND" value="1f1f1f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
