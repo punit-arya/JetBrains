@@ -1,7 +1,6 @@
 <code_scheme name="Mine" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
@@ -24,6 +23,18 @@
     </option>
     <option name="IMPORT_ANNOTATION_WRAP" value="0" />
   </GroovyCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
+  </HTMLCodeStyleSettings>
+  <JSON>
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="OBJECT_WRAPPING" value="0" />
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1024" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1024" />
@@ -63,6 +74,9 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+  </Properties>
   <Python>
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
@@ -96,7 +110,6 @@
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="false" />
-    <option name="KEEP_MULTIPLE_EXPRESSIONS_IN_ONE_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
@@ -110,7 +123,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -129,14 +141,24 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="LABEL_INDENT_SIZE" value="4" />
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="LABEL_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
@@ -150,8 +172,17 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
