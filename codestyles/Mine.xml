@@ -92,6 +92,15 @@
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
+  </XML>
   <codeStyleSettings language="Groovy">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -117,6 +126,7 @@
     <option name="CLASS_ANNOTATION_WRAP" value="0" />
     <option name="FIELD_ANNOTATION_WRAP" value="0" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="LABEL_INDENT_SIZE" value="4" />
     </indentOptions>
@@ -142,6 +152,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="LABEL_INDENT_SIZE" value="4" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
@@ -157,6 +168,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="LABEL_INDENT_SIZE" value="4" />
     </indentOptions>
@@ -172,6 +184,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
