@@ -163,6 +163,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
