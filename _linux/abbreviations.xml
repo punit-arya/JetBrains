@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="TabsAlphabeticalMode">
+        <abbreviation name="sorttabs" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
