@@ -1,5 +1,8 @@
 <keymap version="1" name="Mine" parent="Default for KDE">
   <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="HideAllWindows">
