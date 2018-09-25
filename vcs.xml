@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/punit-arya/CloseMyTickets" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/naman14/Timber" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src" />
+    <option name="cloneParentDir" value="$USER_HOME$/src/_not_mine/" />
   </component>
 </application>
