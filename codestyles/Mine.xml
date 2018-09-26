@@ -6,6 +6,32 @@
   </option>
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="LAYOUT_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+    <option name="MANIFEST_SETTINGS">
+      <value>
+        <option name="GROUP_TAGS_WITH_SAME_NAME" value="false" />
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+    <option name="VALUE_RESOURCE_FILE_SETTINGS">
+      <value>
+        <option name="WRAP_ATTRIBUTES" value="2" />
+      </value>
+    </option>
+    <option name="OTHER_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+  </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -93,12 +119,10 @@
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
   <XML>
-    <option name="XML_ATTRIBUTE_WRAP" value="0" />
-    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-    <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_KEEP_BLANK_LINES" value="0" />
     <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
   </XML>
   <codeStyleSettings language="Groovy">
