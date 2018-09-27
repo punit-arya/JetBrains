@@ -7,8 +7,10 @@
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
       <value>
+        <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
         <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
         <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
       </value>
@@ -209,7 +211,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
