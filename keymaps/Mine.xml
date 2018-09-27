@@ -13,4 +13,8 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="hg4idea.QPushAction" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift alt p" second-keystroke="s" />
+  </action>
 </keymap>
