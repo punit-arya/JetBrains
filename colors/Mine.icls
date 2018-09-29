@@ -4,11 +4,11 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-09-22T23:18:23</property>
+    <property name="modified">2018-09-29T17:52:25</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="19" />
+  <option name="CONSOLE_FONT_NAME" value="CMU Typewriter Text" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
