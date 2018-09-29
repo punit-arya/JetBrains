@@ -9,15 +9,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
+  <action id="MethodOverloadSwitchUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="TabsAlphabeticalMode">
-    <keyboard-shortcut first-keystroke="shift alt p" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="o" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="d" />
   </action>
   <action id="hg4idea.QPushAction" />
   <action id="linessorter.sort">
-    <keyboard-shortcut first-keystroke="shift alt p" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="s" />
   </action>
 </keymap>
