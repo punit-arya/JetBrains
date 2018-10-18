@@ -4,7 +4,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-10-06T23:59:06</property>
+    <property name="modified">2018-10-19T03:02:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="CMU Typewriter Text" />
@@ -143,15 +143,15 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="7f7f7f" />
-        <option name="BACKGROUND" value="3f3f3f" />
-        <option name="EFFECT_COLOR" value="0" />
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="afafaf" />
-        <option name="BACKGROUND" value="6f6f6f" />
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
