@@ -5,6 +5,8 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="1000" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
@@ -73,7 +75,6 @@
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
@@ -123,9 +124,11 @@
   </Python>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
+    <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_KEEP_BLANK_LINES" value="0" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
   </XML>
   <codeStyleSettings language="Gherkin">
