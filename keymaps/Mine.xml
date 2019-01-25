@@ -10,4 +10,7 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
+  </action>
 </keymap>
