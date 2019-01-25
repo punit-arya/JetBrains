@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="17" />
-    <option name="FONT_FAMILY" value="M+ 1m" />
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="CMU Typewriter Text" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -22,7 +22,6 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
@@ -42,7 +41,6 @@
     <option name="automaticallyInsertRequiredAttributes" value="false" />
     <option name="automaticallyInsertRequiredSubTags" value="false" />
     <option name="automaticallyStartAttribute" value="false" />
-    <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>

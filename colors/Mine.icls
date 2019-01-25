@@ -4,16 +4,16 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-01-25T18:24:42</property>
+    <property name="modified">2018-11-12T23:22:03</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="CMU Typewriter Text" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
-    <option name="SELECTION_BACKGROUND" value="5f0000" />
+    <option name="LINE_NUMBERS_COLOR" value="bfbfbf" />
   </colors>
   <attributes>
     <option name="BASH.CONDITIONAL">
@@ -121,9 +121,68 @@
         <option name="FOREGROUND" value="975027" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7f0000" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7f7f3f" />
+        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="ERROR_STRIPE_COLOR" value="7f7f00" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="EFFECT_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5f5f5f" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9f0000" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bfbfbf" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dfdfdf" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff5f5f" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -147,6 +206,20 @@
       <value>
         <option name="FOREGROUND" value="a8c023" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="BACKGROUND" value="3f3f00" />
+        <option name="EFFECT_COLOR" value="659c6b" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3f3f00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>

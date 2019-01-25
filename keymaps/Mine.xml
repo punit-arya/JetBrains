@@ -1,16 +1,33 @@
 <keymap version="1" name="Mine" parent="Default for KDE">
   <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
+  <action id="MethodOverloadSwitchUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
-  <action id="editRunConfigurations">
+  <action id="TabsAlphabeticalMode">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="o" />
+  </action>
+  <action id="TabsPlacementNone">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="n" />
+  </action>
+  <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="d" />
+  </action>
+  <action id="hg4idea.QPushAction" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="s" />
   </action>
 </keymap>
