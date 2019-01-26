@@ -4,7 +4,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-11-12T23:22:03</property>
+    <property name="modified">2019-01-25T19:10:52</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="CMU Typewriter Text" />
@@ -14,6 +14,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
     <option name="LINE_NUMBERS_COLOR" value="bfbfbf" />
+    <option name="SELECTION_BACKGROUND" value="5f0000" />
   </colors>
   <attributes>
     <option name="BASH.CONDITIONAL">
