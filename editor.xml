@@ -32,7 +32,7 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" case-sensitive="true" pattern="\bTODO: \b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\bTODO: .*\b" />
     <pattern case-sensitive="true" pattern="\bNOTE: \b.*" />
     <pattern icon="important" case-sensitive="true" pattern="\bDONE: \b.*" />
   </component>
