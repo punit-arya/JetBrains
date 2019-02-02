@@ -28,17 +28,17 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bTODO: .*\b">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bTODO: .*">
       <option name="FOREGROUND" value="bf0000" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="3f3f3f" />
     </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOTE: .*\b">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOTE: .*">
       <option name="FOREGROUND" value="bfbf00" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="3f3f3f" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bDONE: .*\b">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bDONE: .*">
       <option name="FOREGROUND" value="bf00" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="3f3f3f" />
