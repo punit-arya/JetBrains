@@ -28,13 +28,24 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" case-sensitive="true" pattern="\bTODO: .*\b" />
-    <pattern case-sensitive="true" pattern="\bNOTE: \b.*" />
-    <pattern icon="important" case-sensitive="true" pattern="\bDONE: \b.*" />
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bTODO: .*">
+      <option name="FOREGROUND" value="bf0000" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOTE: .*">
+      <option name="FOREGROUND" value="bfbf00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bDONE: .*">
+      <option name="FOREGROUND" value="bf00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />

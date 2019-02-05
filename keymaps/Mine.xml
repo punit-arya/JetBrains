@@ -26,6 +26,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="d" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="i" />
+  </action>
   <action id="hg4idea.QPushAction" />
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="s" />
