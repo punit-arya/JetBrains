@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="23" />
-    <option name="FONT_FAMILY" value="CMU Typewriter Text" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="M+ 1mn" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -20,20 +20,31 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="\bNOTE\b.*">
-      <option name="FOREGROUND" value="7fff00" />
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bTODO: .*">
+      <option name="FOREGROUND" value="bf0000" />
       <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOTE: .*">
+      <option name="FOREGROUND" value="bfbf00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bDONE: .*">
+      <option name="FOREGROUND" value="bf00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
     </pattern>
   </component>
   <component name="XmlEditorOptions">
@@ -42,7 +53,6 @@
     <option name="automaticallyInsertRequiredAttributes" value="false" />
     <option name="automaticallyInsertRequiredSubTags" value="false" />
     <option name="automaticallyStartAttribute" value="false" />
-    <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>
