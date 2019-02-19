@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-01-25T19:22:13</property>
+    <property name="modified">2019-02-19T17:29:57</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -20,7 +20,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="f99ff" />
+        <option name="FOREGROUND" value="f7fff" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -45,9 +45,20 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="1f1fff" />
+      </value>
+    </option>
     <option name="BASH.REDIRECTION">
       <value>
         <option name="FOREGROUND" value="c813ff" />
+      </value>
+    </option>
+    <option name="BASH.SHEBANG">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
