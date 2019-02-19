@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-02-19T17:29:57</property>
+    <property name="modified">2019-02-19T18:48:45</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -35,12 +35,14 @@
     </option>
     <option name="BASH.HERE_DOC_END">
       <value>
+        <option name="FOREGROUND" value="ff5f5f" />
         <option name="BACKGROUND" value="2f2f2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_START">
       <value>
+        <option name="FOREGROUND" value="ff5f5f" />
         <option name="BACKGROUND" value="2f2f2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -59,6 +61,21 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="9fdf3f" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="6fbf3f" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE_COMPOSED">
+      <value>
+        <option name="FOREGROUND" value="6fff5f" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
