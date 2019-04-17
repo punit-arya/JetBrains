@@ -11,7 +11,7 @@
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="Mine">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
