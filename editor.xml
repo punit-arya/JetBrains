@@ -55,6 +55,11 @@
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="3f3f3f" />
     </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bVER:.*">
+      <option name="FOREGROUND" value="7fff00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3f3f3f" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
