@@ -17,8 +17,17 @@
   <action id="TabsAlphabeticalMode">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="o" />
   </action>
+  <action id="TabsPlacementNone">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="n" />
+  </action>
+  <action id="TabsPlacementRight">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="d" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="i" />
   </action>
   <action id="hg4idea.QPushAction" />
   <action id="linessorter.sort">

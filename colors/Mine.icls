@@ -1,19 +1,16 @@
 <scheme name="Mine" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-10-11T00:17:57</property>
+    <property name="modified">2019-09-27T19:39:55</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="CMU Typewriter Text" />
-  <option name="CONSOLE_FONT_SIZE" value="20" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
     <option name="LINE_NUMBERS_COLOR" value="bfbfbf" />
+    <option name="SELECTION_BACKGROUND" value="5f0000" />
   </colors>
   <attributes>
     <option name="BASH.CONDITIONAL">
@@ -23,7 +20,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="f99ff" />
+        <option name="FOREGROUND" value="f7fff" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -38,19 +35,47 @@
     </option>
     <option name="BASH.HERE_DOC_END">
       <value>
+        <option name="FOREGROUND" value="ff5f5f" />
         <option name="BACKGROUND" value="2f2f2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_START">
       <value>
+        <option name="FOREGROUND" value="ff5f5f" />
         <option name="BACKGROUND" value="2f2f2f" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="1f1fff" />
       </value>
     </option>
     <option name="BASH.REDIRECTION">
       <value>
         <option name="FOREGROUND" value="c813ff" />
+      </value>
+    </option>
+    <option name="BASH.SHEBANG">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="9fdf3f" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="6fbf3f" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE_COMPOSED">
+      <value>
+        <option name="FOREGROUND" value="6fff5f" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -144,15 +169,45 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="7f7f7f" />
-        <option name="BACKGROUND" value="2f2f2f" />
-        <option name="EFFECT_COLOR" value="0" />
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="9f9f9f" />
-        <option name="BACKGROUND" value="2f2f2f" />
+        <option name="FOREGROUND" value="5f5f5f" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5f5f5f" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9f0000" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bfbfbf" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dfdfdf" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff5f5f" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -190,6 +245,31 @@
         <option name="BACKGROUND" value="3f3f00" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bfbf00" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="ff7f7f" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ffff7f" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="dfdfdf" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="dfbf3f" />
       </value>
     </option>
   </attributes>
