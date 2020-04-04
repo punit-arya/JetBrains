@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-02-19T18:48:45</property>
+    <property name="modified">2019-09-27T19:39:55</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -245,6 +245,31 @@
         <option name="BACKGROUND" value="3f3f00" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bfbf00" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="ff7f7f" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ffff7f" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="dfdfdf" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="dfbf3f" />
       </value>
     </option>
   </attributes>
