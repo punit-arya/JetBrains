@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="M+ 1m light" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
