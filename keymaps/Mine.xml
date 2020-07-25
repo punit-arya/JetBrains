@@ -9,6 +9,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
+  <action id="JumpToColorsAndFonts">
+    <keyboard-shortcut first-keystroke="alt released enter" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="j" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
