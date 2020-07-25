@@ -3,13 +3,16 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-09-27T19:39:55</property>
+    <property name="modified">2020-07-26T02:48:10</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
+    <option name="CARET_ROW_COLOR" value="2f2f2f" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
     <option name="LINE_NUMBERS_COLOR" value="bfbfbf" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9f9f9f" />
+    <option name="METHOD_SEPARATORS_COLOR" value="4f4f4f" />
     <option name="SELECTION_BACKGROUND" value="5f0000" />
   </colors>
   <attributes>
@@ -76,6 +79,11 @@
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="6fff5f" />
+      </value>
+    </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="dfdfdf" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -146,6 +154,17 @@
         <option name="FOREGROUND" value="975027" />
       </value>
     </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="6f875f" />
+      </value>
+    </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bfbfbf" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="7f0000" />
@@ -154,9 +173,17 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ff00" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="7f7f3f" />
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="dfdfdf" />
         <option name="EFFECT_COLOR" value="aeae80" />
         <option name="ERROR_STRIPE_COLOR" value="7f7f00" />
         <option name="EFFECT_TYPE" value="2" />
@@ -164,7 +191,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_COLOR" value="3f3f3f" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -210,9 +237,21 @@
         <option name="FOREGROUND" value="ff5f5f" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffef2f" />
+        <option name="BACKGROUND" value="3f3f4f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="786e" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="9fbf5f" />
       </value>
     </option>
     <option name="REGEXP.CHARACTER">
@@ -229,15 +268,20 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="afbf1f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPO">
       <value>
         <option name="BACKGROUND" value="3f3f00" />
-        <option name="EFFECT_COLOR" value="659c6b" />
+        <option name="EFFECT_COLOR" value="6f9f6f" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cf1f3f" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -245,6 +289,13 @@
         <option name="BACKGROUND" value="3f3f00" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7fff00" />
+        <option name="ERROR_STRIPE_COLOR" value="7fff00" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
