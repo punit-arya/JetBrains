@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2020-07-26T03:16:36</property>
+    <property name="modified">2020-08-01T01:15:21</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -181,9 +181,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9f00" />
-        <option name="ERROR_STRIPE_COLOR" value="9f00" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="3f3f00" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="3f3f00" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
