@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
@@ -28,7 +29,6 @@
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
