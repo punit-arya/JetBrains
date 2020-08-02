@@ -3,15 +3,15 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2020-08-02T01:50:21</property>
+    <property name="modified">2020-08-02T21:01:55</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="2f2f2f" />
     <option name="GUTTER_BACKGROUND" value="1f1f1f" />
-    <option name="LINE_NUMBERS_COLOR" value="bfbfbf" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9f9f9f" />
+    <option name="LINE_NUMBERS_COLOR" value="dfdfdf" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
     <option name="METHOD_SEPARATORS_COLOR" value="4f4f4f" />
     <option name="SELECTION_BACKGROUND" value="5f0000" />
   </colors>
@@ -88,17 +88,23 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="979797" />
+        <option name="FOREGROUND" value="ff00ff" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="979797" />
+        <option name="FOREGROUND" value="ff00ef" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="975027" />
+        <option name="FOREGROUND" value="ff00df" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -109,7 +115,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff00cf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -129,9 +135,16 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff7200" />
+        <option name="FOREGROUND" value="ff7f00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -140,9 +153,14 @@
         <option name="FOREGROUND" value="c6a758" />
       </value>
     </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ffff" />
+      </value>
+    </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f99ff" />
+        <option name="FOREGROUND" value="ff00bf" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -152,17 +170,22 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="979797" />
+        <option name="FOREGROUND" value="ff00af" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="975027" />
+        <option name="FOREGROUND" value="ff009f" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="6f875f" />
+        <option name="FOREGROUND" value="3fff3f" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -174,8 +197,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="7f0000" />
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -252,6 +275,11 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6f6f6f" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="3f3fff" />
       </value>
     </option>
     <option name="PY.KEYWORD">
