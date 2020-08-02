@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2020-08-03T01:09:07</property>
+    <property name="modified">2020-08-03T01:34:05</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -308,7 +308,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="3f3fff" />
+        <option name="FOREGROUND" value="ff8f00" />
       </value>
     </option>
     <option name="PY.KEYWORD">
