@@ -5,7 +5,8 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
-  <action id="ActivateTODOToolWindow">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="2" />
   </action>
   <action id="HideAllWindows">
