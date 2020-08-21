@@ -10,5 +10,13 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
+    <entry key="ide.allow.merge.buttons" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
 </application>
