@@ -5,9 +5,8 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-    <keyboard-shortcut first-keystroke="alt p" second-keystroke="2" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
