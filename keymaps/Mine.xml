@@ -1,13 +1,19 @@
 <keymap version="1" name="Mine" parent="Default for KDE">
   <action id="ActivateDocumentationToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="1" />
   </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="JumpToColorsAndFonts">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="j" />
   </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="Run">
