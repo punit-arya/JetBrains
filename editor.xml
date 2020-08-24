@@ -1,4 +1,19 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SMART_BACKSPACE" value="2" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Mine">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="M+ 1m light" />
@@ -28,6 +43,13 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bHIG:">
@@ -74,5 +96,10 @@
     <option name="automaticallyStartAttribute" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="8" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>

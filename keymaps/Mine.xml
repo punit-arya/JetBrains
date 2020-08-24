@@ -14,6 +14,10 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="TabsAlphabeticalMode">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="o" />
   </action>
