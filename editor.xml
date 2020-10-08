@@ -24,11 +24,15 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Groovy" value="true" />
         <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
         <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
         <entry key="Python" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
         <entry key="yaml" value="true" />
       </map>
     </option>
@@ -39,6 +43,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
