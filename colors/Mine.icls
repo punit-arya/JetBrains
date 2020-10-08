@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2020-08-03T01:34:05</property>
+    <property name="modified">2020-10-09T00:48:04</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -192,7 +192,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="ff009f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -327,7 +327,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="ffaf00" />
