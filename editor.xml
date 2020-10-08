@@ -51,6 +51,40 @@
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bHIG\b.*">
+      <option name="FOREGROUND" value="7f0000" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bMED\b.*">
+      <option name="FOREGROUND" value="ff0000" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bLOW\b.*">
+      <option name="FOREGROUND" value="ff7f00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVER\b.*">
+      <option name="FOREGROUND" value="7fff7f" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bFIN\b.*">
+      <option name="FOREGROUND" value="ff00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bSCR\b.*">
+      <option name="FOREGROUND" value="3f00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bWAI\b.*">
+      <option name="FOREGROUND" value="ffff00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOT\b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="8" />
   </component>
