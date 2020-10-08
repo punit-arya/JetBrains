@@ -3,10 +3,17 @@
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="1" />
   </action>
   <action id="ActivateEventLogToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="v" />
   </action>
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="t" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="r" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
