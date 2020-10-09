@@ -5,11 +5,12 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="v" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt p" second-keystroke="t" />
+  </action>
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt p" second-keystroke="e" />
-  </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="alt p" second-keystroke="t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
