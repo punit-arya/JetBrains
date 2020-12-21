@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="bdddd621-379b-4525-96e6-782cf8a3ee05" name="punit-arya">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="a_punit_-etc@yahoo.co.in" />
     <option name="AUTH_TYPE" value="BASIC" />

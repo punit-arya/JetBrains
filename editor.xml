@@ -5,6 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SMART_BACKSPACE" value="2" />
@@ -13,6 +14,7 @@
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="250" />
@@ -26,11 +28,15 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Groovy" value="true" />
         <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
         <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
         <entry key="Python" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
         <entry key="yaml" value="true" />
       </map>
     </option>
@@ -41,6 +47,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
