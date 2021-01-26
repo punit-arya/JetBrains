@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RECENT_FILES_LIMIT" value="64" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
