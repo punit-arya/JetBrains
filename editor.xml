@@ -18,7 +18,6 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="250" />
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="19" />
@@ -48,6 +47,7 @@
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
