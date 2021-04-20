@@ -2,6 +2,5 @@
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/home/punit/.m2/repository" />
     <macro name="KOTLIN_BUNDLED" value="/snap/intellij-idea-community/293/plugins/Kotlin/kotlinc" />
-    <macro name="KOTLIN_BUNDLED" value="/snap/android-studio/101/android-studio/plugins/Kotlin/kotlinc" />
   </component>
 </application>
