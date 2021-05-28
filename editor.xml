@@ -8,6 +8,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
@@ -24,8 +25,11 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="M+ 1m light" />
+    <option name="FONT_FAMILY" value="M+ 1m" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="bold" />
     <option name="LINE_SPACING" value="1.0" />
+    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
