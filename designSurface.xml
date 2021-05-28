@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/drawable_divider.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/icon_info_baseline_24.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
