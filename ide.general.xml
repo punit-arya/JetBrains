@@ -10,6 +10,8 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="ide.allow.merge.buttons" value="false" />
+    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
