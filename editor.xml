@@ -24,11 +24,10 @@
     <option name="AUTOREPARSE_DELAY" value="250" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="19" />
     <option name="FONT_FAMILY" value="M+ 1m" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="bold" />
-    <option name="FONT_SCALE" value="1.5" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
