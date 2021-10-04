@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2021-10-04T16:31:29</property>
+    <property name="modified">2021-10-04T16:40:38</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -463,12 +463,17 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="ff8f00" />
+        <option name="FOREGROUND" value="ff5f00" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ff6bf3" />
       </value>
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff7f00" />
+        <option name="FOREGROUND" value="fb7f00" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
