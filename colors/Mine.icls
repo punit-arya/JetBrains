@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2021-10-04T16:40:38</property>
+    <property name="modified">2021-10-04T17:13:11</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -312,7 +312,6 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="7f0000" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
@@ -354,9 +353,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="df5f00" />
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="df7f00" />
+        <option name="EFFECT_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -458,7 +456,9 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6f6f6f" />
+        <option name="FOREGROUND" value="ff00ff" />
+        <option name="EFFECT_COLOR" value="ff00ff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -558,8 +558,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3f3f00" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="EFFECT_COLOR" value="ff7f00" />
+        <option name="ERROR_STRIPE_COLOR" value="ff7f00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -579,6 +579,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd3f3d" />
+        <option name="EFFECT_COLOR" value="bd3f3d" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
