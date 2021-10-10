@@ -106,6 +106,10 @@
   <ScalaCodeStyleSettings>
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
+  <Shell_Script>
+    <option name="SWITCH_CASES_INDENTED" value="true" />
+    <option name="REDIRECT_FOLLOWED_BY_SPACE" value="true" />
+  </Shell_Script>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_TEXT_WRAP" value="0" />
@@ -460,7 +464,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="3" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -469,6 +472,13 @@
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Shell Script">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
