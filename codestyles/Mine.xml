@@ -461,6 +461,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="3" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
     <indentOptions>
