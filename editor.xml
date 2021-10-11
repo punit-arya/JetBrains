@@ -25,8 +25,10 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="M+ 1m" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="medium" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
