@@ -26,8 +26,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="19" />
     <option name="FONT_FAMILY" value="M+ 1m" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="bold" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="medium" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
@@ -69,35 +69,35 @@
     <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bHIG\b.*">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bHIG: \b.*">
       <option name="FOREGROUND" value="7f0000" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bMED\b.*">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bMED: \b.*">
       <option name="FOREGROUND" value="ff0000" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bLOW\b.*">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bLOW: \b.*">
       <option name="FOREGROUND" value="ff7f00" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVER\b.*">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVER: \b.*">
       <option name="FOREGROUND" value="7fff7f" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bFIN\b.*">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bFIN: \b.*">
       <option name="FOREGROUND" value="ff00" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bSCR\b.*">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bSCR: \b.*">
       <option name="FOREGROUND" value="3f00" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bWAI\b.*">
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bWAI: \b.*">
       <option name="FOREGROUND" value="ffff00" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOT\b.*">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOT: \b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
