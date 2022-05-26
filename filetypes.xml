@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping ext="2018-05-28_03-42" type="PLAIN_TEXT" />
       <mapping ext="2018-05-28_01-18" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
