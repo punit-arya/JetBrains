@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R3CT4099T1R-DwGbCj._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="samsung SM-S906E" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="adb-R3CT4099T1R-DwGbCj._adb-tls-pairing._tcp" />
+          </Key>
+        </key>
+        <name value="samsung SM-S906E" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
