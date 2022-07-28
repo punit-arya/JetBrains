@@ -26,6 +26,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="19" />
     <option name="FONT_FAMILY" value="M+ 1m" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="bold" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
@@ -46,7 +48,6 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="false" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CARET_BLINKING" value="false" />
