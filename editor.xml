@@ -23,12 +23,6 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="250" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="19" />
-    <option name="FONT_FAMILY" value="M+ 1m" />
-    <option name="LINE_SPACING" value="1.0" />
-    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
