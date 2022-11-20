@@ -1,0 +1,104 @@
+<application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SMART_BACKSPACE" value="2" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="250" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
+        <entry key="Python" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_CARET_BLINKING" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bHIG: \b.*">
+      <option name="FOREGROUND" value="7f0000" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bMED: \b.*">
+      <option name="FOREGROUND" value="ff0000" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bLOW: \b.*">
+      <option name="FOREGROUND" value="ff7f00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVER: \b.*">
+      <option name="FOREGROUND" value="7fff7f" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bFIN: \b.*">
+      <option name="FOREGROUND" value="ff00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bSCR: \b.*">
+      <option name="FOREGROUND" value="3f00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bWAI: \b.*">
+      <option name="FOREGROUND" value="ffff00" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNOT: \b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="8" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
+</application>
