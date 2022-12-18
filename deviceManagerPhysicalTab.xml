@@ -9,19 +9,8 @@
           </Key>
         </key>
         <name value="samsung SM-S906E" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="adb-R3CT4099T1R-DwGbCj._adb-tls-pairing._tcp" />
-          </Key>
-        </key>
-        <name value="samsung SM-S906E" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
