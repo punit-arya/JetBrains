@@ -3,7 +3,7 @@
     <property name="created">2018-02-22T14:56:24</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2023-03-30T11:30:21</property>
+    <property name="modified">2023-03-31T18:32:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -393,7 +393,6 @@
     <option name="INLAY_DEFAULT">
       <value>
         <option name="FOREGROUND" value="797979" />
-        <option name="BACKGROUND" value="3b3b3b" />
       </value>
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
@@ -404,7 +403,6 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="5f5f5f" />
-        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -417,7 +415,6 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="5f5f5f" />
-        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
