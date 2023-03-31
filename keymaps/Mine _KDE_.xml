@@ -1,0 +1,81 @@
+<keymap version="1" name="Mine (KDE)" parent="Default for KDE">
+  <action id="ActivateAndroidEmulatorToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="ActivateAndroidProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
+  <action id="ActivateAppInspectionToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDeviceFileExplorerToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
+  </action>
+  <action id="ActivateDeviceManagerToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 3" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 4" />
+  </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 4" />
+  </action>
+  <action id="ActivateLayoutInspectorToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 5" />
+  </action>
+  <action id="ActivateLayoutValidationToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 6" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateResourcesExplorerToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="Activatedocumentation.v2ToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 0" />
+  </action>
+  <action id="DumpMLCompletionFeatures" />
+  <action id="EvaluateExpression" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindUsages" />
+  <action id="IDEtalk.SearchUserHistory" />
+  <action id="RunToCursor" />
+  <action id="ShowExecutionPoint" />
+  <action id="ShowFilePath" />
+</keymap>
