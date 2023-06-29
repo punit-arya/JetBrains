@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
     <option name="VERSION" value="1" />
-    <option name="FONT_SIZE" value="19" />
-    <option name="FONT_SIZE_2D" value="19.0" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE_2D" value="20.0" />
     <option name="FONT_FAMILY" value="M+ 1mn" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="light" />
     <option name="FONT_BOLD_SUB_FAMILY" value="medium" />

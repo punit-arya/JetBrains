@@ -1,10 +1,4 @@
-<keymap version="1" name="Mine (KDE)" parent="Default for KDE">
-  <action id="ActivateAndroidEmulatorToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt 2" />
-  </action>
-  <action id="ActivateAndroidProfilerToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt 7" />
-  </action>
+<keymap version="1" name="Mine (EMACS)" parent="Emacs">
   <action id="ActivateAppInspectionToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
@@ -23,9 +17,6 @@
   <action id="ActivateDeviceManagerToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt 3" />
   </action>
-  <action id="ActivateEventLogToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt 3" />
-  </action>
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 4" />
   </action>
@@ -40,7 +31,9 @@
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 5" />
-    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="ActivateNotificationsToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 6" />
   </action>
   <action id="ActivateProblemsViewToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
@@ -57,40 +50,17 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="Activatedocumentation.v2ToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt 0" />
-  </action>
   <action id="DumpMLCompletionFeatures" />
-  <action id="EditorMoveToPageBottom" />
-  <action id="EditorMoveToPageTop" />
-  <action id="EvaluateExpression" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
-  <action id="FindUsages" />
-  <action id="IDEtalk.SearchUserHistory" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
-  <action id="RunToCursor" />
-  <action id="ShowExecutionPoint" />
-  <action id="ShowFilePath" />
-  <action id="UpdateRunningApplication" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorShowGutterIconTooltip" />
+  <action id="Replace" />
 </keymap>
